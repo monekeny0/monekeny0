@@ -11,8 +11,8 @@
 ###
 
 <div align="center">
-  <a href="https://www.youtube.com/@monekeny" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <a href="https://vk.com/monekeny" target="_blank">
+    <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=FFFFFF" height="25" alt="youtube logo"  />
   </a>
   <a href="https://t.me/monekeny" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />

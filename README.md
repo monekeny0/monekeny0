@@ -16,11 +16,29 @@
 
 ### 👩‍💻 Обо мне
 
-Я **QA Manual инженер** с фокусом на глубокое изучение автоматизации на **Java** и **Python**. 
+Я **QA Manual инженер** с фокусом на изучении автоматизации на **Java** и **Python**. 
 
-Мой путь в IT начался с ручного тестирования. В поисках своего идеального вектора я успел попробовать себя в Data Science и Project Management, что помогает мне лучше понимать продукты, задачи бизнеса и работу команды с разных сторон.
+Мой путь в IT начался с ручного тестирования. В поисках своего вектора я успел попробовать себя в Data Science и Project Management, что помогает мне лучше понимать продукты, задачи бизнеса и работу команды с разных сторон.
 
 * 🔍 **Специализация:** Ручное тестирование (QA Manual)
-* 🚀 **Развитие:** Изучаю Java и Python для постепенного перехода в автоматизацию (AQA)
+* 🚀 **Развитие:** Изучаю Java и Python для перехода в автоматизацию (AQA)
+* 💡 **Сильная сторона:** Понимаю процессы разработки изнутри и умею смотреть на продукт глазами пользователя и бизнеса
 
 ---
+
+### 🛠 Стек и инструменты
+
+**Testing & Tools:** ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+**Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+---
+
+### 📕 Мои проекты
+
+* 🛠 **[uniCom](https://t.me/unicomrus)** — Создаём простые и эффективные цифровые решения: разработка ПО, автоматизация процессов, внедрение IT-инноваций.
+* 🎮 **[uniGame](https://vk.com/unigameru)** — Дочерний проект uniCom, студия разработки видеоигр.

@@ -34,11 +34,5 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 ---
-
-### 📕 Мои проекты
-
-* 🛠 **[uniCom](https://t.me/unicomrus)** — Создаём простые и эффективные цифровые решения: разработка ПО, автоматизация процессов, внедрение IT-инноваций.
-* 🎮 **[uniGame](https://vk.com/unigameru)** — Дочерний проект uniCom, студия разработки видеоигр.
